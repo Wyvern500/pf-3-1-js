@@ -13,6 +13,7 @@
     "vite": "^7.1.2"
   },
   "dependencies": {
-    "prompt-sync": "^4.2.0"
+    "prompt-sync": "^4.2.0",
+    "vitest": "^3.2.4"
   }
 }
